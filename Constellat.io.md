@@ -8,7 +8,7 @@
 
 ## Open Finances:
 
-** Constellat.io profits** are to be all donated to the [International Space Station (ISS)](https://en.wikipedia.org/wiki/International_Space_Station).
+**Constellat.io profits** are to be all donated to the [International Space Station (ISS)](https://en.wikipedia.org/wiki/International_Space_Station).
 
 ![image](https://github.com/operarioribeiro/Constellat.io/blob/main/Constellat.io.png)
 
